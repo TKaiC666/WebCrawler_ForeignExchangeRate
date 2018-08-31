@@ -17,8 +17,8 @@ crawler.Start();  //開始抓外幣匯率資料
 var result = crawler.GetSearchResult(); //回傳資料和command line顯示抓取資料
 ```
 
-### Crawler
-類別`Crawler`有3個public method。
+### BankCrawler
+類別`BankCrawler`有3個public method。
 * `AddTarget()` : 參數是`IBank`，把要查詢的銀行加入到`Crawler`的List
 * `Start()` : 開始查詢
 * `GetSearchResult()` : 回傳`List<SearchResult>`，內容包含銀行名稱，該銀行外匯頁面的幣別、現金買入、現金賣出、即期買入、即期賣出。
