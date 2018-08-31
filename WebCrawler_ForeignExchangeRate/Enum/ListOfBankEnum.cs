@@ -1,4 +1,4 @@
-﻿namespace GetCurrencyRate.Enum
+﻿namespace WebCrawler_ForeignExchangeRate.Enum
 {
     public enum ListOfBank
     {

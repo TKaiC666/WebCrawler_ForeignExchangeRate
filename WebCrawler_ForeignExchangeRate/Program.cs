@@ -1,6 +1,6 @@
-﻿using GetCurrencyRate.Class;
+﻿using WebCrawler_ForeignExchangeRate.Class;
 
-namespace GetCurrencyRate
+namespace WebCrawler_ForeignExchangeRate
 {
     class Program
     {

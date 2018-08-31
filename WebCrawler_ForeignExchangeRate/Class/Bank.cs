@@ -1,6 +1,6 @@
-﻿using GetCurrencyRate.Enum;
+﻿using WebCrawler_ForeignExchangeRate.Enum;
 
-namespace GetCurrencyRate.Class
+namespace WebCrawler_ForeignExchangeRate.Class
 {
     public interface IBank
     {

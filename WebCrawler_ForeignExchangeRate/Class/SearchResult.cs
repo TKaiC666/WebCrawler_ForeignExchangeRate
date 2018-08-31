@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace GetCurrencyRate.Class
+namespace WebCrawler_ForeignExchangeRate.Class
 {
     class SearchResult
     {

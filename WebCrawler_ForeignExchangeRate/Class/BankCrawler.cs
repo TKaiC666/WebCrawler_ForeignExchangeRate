@@ -1,9 +1,9 @@
-﻿using GetCurrencyRate.Enum;
+﻿using WebCrawler_ForeignExchangeRate.Enum;
 using HtmlAgilityPack;
 using System;
 using System.Collections.Generic;
 
-namespace GetCurrencyRate.Class
+namespace WebCrawler_ForeignExchangeRate.Class
 {
     /// <summary>
     /// Get and Store foreign exchange rate data from web.

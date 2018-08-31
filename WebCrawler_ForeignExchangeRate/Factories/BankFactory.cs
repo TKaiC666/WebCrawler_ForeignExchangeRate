@@ -1,7 +1,7 @@
-﻿using GetCurrencyRate.Class;
-using GetCurrencyRate.Enum;
+﻿using WebCrawler_ForeignExchangeRate.Class;
+using WebCrawler_ForeignExchangeRate.Enum;
 
-namespace GetCurrencyRate.Factories
+namespace WebCrawler_ForeignExchangeRate.Factories
 {
     static class BankFactory
     {
