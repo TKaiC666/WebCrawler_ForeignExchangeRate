@@ -1,7 +1,7 @@
 # WebCrawler_ForeignExchangeRate
 Get foreign  exchange rate from website of bank in Taiwan.
 
-從台灣銀行、第一銀行、土地銀行抓取外幣匯率並儲存。
+從台灣銀行、第一銀行、合作金庫抓取外幣匯率並儲存。
 
 
 ## Getting Started
